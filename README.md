@@ -1,5 +1,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/fastbook/master)  
 [English](./README.md) / [Korean](./README_ko.md)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/obfrap/fast_ai/master?urlpath=%2Fvoila%2Frender%2Fbears.ipynb)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/obfrap/fast_ai/master?urlpath=%2Fvoila%2Frender%2Fbears.ipynb
 
 # The fastai book
 
